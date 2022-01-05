@@ -27,13 +27,15 @@ while True:
         print("Enter a number") 
         continue
 
-    # if user_guess == random_number:
-    #     print("WoW,you got it right")   
+    if user_guess == random_number:
+        print("WoW,you got it right")   
 
-    #     break
+        break
 
-    # elif user_guess > random_number:
-    #     print("You were above the number")
+    elif user_guess > random_number:
+        print("You were above the number")
 
-    # else:
-    #     print("you were below the number")    
+    else:
+        print("you were below the number")    
+
+print("You got it in", guesses ,"guesses")
