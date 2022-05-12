@@ -1,2 +1,2 @@
 # my-python-mini-projects
-contains python mini projects that i have done
+contains python mini projects that i have done.
